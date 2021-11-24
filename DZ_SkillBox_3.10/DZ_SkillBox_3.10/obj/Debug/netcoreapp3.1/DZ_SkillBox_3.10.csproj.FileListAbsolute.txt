@@ -1,0 +1,14 @@
+C:\Users\Den\source\repos\DZ_SkillBox_3.10\DZ_SkillBox_3.10\bin\Debug\netcoreapp3.1\DZ_SkillBox_3.10.exe
+C:\Users\Den\source\repos\DZ_SkillBox_3.10\DZ_SkillBox_3.10\bin\Debug\netcoreapp3.1\DZ_SkillBox_3.10.deps.json
+C:\Users\Den\source\repos\DZ_SkillBox_3.10\DZ_SkillBox_3.10\bin\Debug\netcoreapp3.1\DZ_SkillBox_3.10.runtimeconfig.json
+C:\Users\Den\source\repos\DZ_SkillBox_3.10\DZ_SkillBox_3.10\bin\Debug\netcoreapp3.1\DZ_SkillBox_3.10.runtimeconfig.dev.json
+C:\Users\Den\source\repos\DZ_SkillBox_3.10\DZ_SkillBox_3.10\bin\Debug\netcoreapp3.1\DZ_SkillBox_3.10.dll
+C:\Users\Den\source\repos\DZ_SkillBox_3.10\DZ_SkillBox_3.10\bin\Debug\netcoreapp3.1\DZ_SkillBox_3.10.pdb
+C:\Users\Den\source\repos\DZ_SkillBox_3.10\DZ_SkillBox_3.10\obj\Debug\netcoreapp3.1\DZ_SkillBox_3.10.AssemblyInfoInputs.cache
+C:\Users\Den\source\repos\DZ_SkillBox_3.10\DZ_SkillBox_3.10\obj\Debug\netcoreapp3.1\DZ_SkillBox_3.10.AssemblyInfo.cs
+C:\Users\Den\source\repos\DZ_SkillBox_3.10\DZ_SkillBox_3.10\obj\Debug\netcoreapp3.1\DZ_SkillBox_3.10.csproj.CoreCompileInputs.cache
+C:\Users\Den\source\repos\DZ_SkillBox_3.10\DZ_SkillBox_3.10\obj\Debug\netcoreapp3.1\DZ_SkillBox_3.10.dll
+C:\Users\Den\source\repos\DZ_SkillBox_3.10\DZ_SkillBox_3.10\obj\Debug\netcoreapp3.1\DZ_SkillBox_3.10.pdb
+C:\Users\Den\source\repos\DZ_SkillBox_3.10\DZ_SkillBox_3.10\obj\Debug\netcoreapp3.1\DZ_SkillBox_3.10.genruntimeconfig.cache
+C:\Users\Den\source\repos\DZ_SkillBox_3.10\DZ_SkillBox_3.10\obj\Debug\netcoreapp3.1\DZ_SkillBox_3.10.csproj.AssemblyReference.cache
+C:\Users\Den\source\repos\DZ_SkillBox_3.10\DZ_SkillBox_3.10\obj\Debug\netcoreapp3.1\DZ_SkillBox_3.10.GeneratedMSBuildEditorConfig.editorconfig
